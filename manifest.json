@@ -2,24 +2,18 @@
   "format_version": 2,
   "header": {
     "name": "Faction Randomizer",
-    "description": "Randomize factions with /startfaction",
-    "uuid": "UUID-1-HERE",
+    "description": "Random factions with /start command",
+    "uuid": "3e5a4a6e-2b3c-4f9a-9f2a-9e4c6a1b8d21",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 0]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "script",
       "language": "javascript",
-      "uuid": "UUID-2-HERE",
+      "uuid": "9c7d2f3a-8e4b-4a5e-bf1c-6a2e7d9b4c11",
       "version": [1, 0, 0],
       "entry": "scripts/main.js"
-    }
-  ],
-  "dependencies": [
-    {
-      "module_name": "@minecraft/server",
-      "version": "1.9.0"
     }
   ]
 }
