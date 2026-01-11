@@ -1,8 +1,0 @@
-{
-  "name": "TeamFactions",
-  "version": "1.0.0",
-  "main": "src/index.js",
-  "api": "1.0.0",
-  "description": "Random teams with tags, nametags, kit, adventure mode",
-  "author": "You"
-}
